@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/discord/config.json
+/server/config.json
 
 # testing
 /coverage
